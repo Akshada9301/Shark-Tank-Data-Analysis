@@ -63,8 +63,9 @@ The objective was to transform raw startup and investment data into meaningful i
 ## 📂 Repository Contents
 
 - SQL Queries
-- Project Presentation (PPT)
+- Python data cleaning 
 - README
+- Datasets
 
 ---
 
